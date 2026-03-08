@@ -1,4 +1,4 @@
-# MLBootcamp1
+# Machine Learning Exercise
 
 Repozytorium zawiera materiały i notebooki Jupyter przygotowane w ramach nauki podstaw machine learningu. Projekt ma charakter edukacyjny i skupia się na przetwarzaniu danych oraz wprowadzeniu do metod uczenia nadzorowanego, ze szczególnym naciskiem na regresję liniową.
 
